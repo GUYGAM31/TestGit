@@ -1,0 +1,2 @@
+print("GUY")
+print("NET")
